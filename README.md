@@ -17,7 +17,7 @@ To save the information of the patient visited we have used file handling. First
 
 ## INTRODUCTION
 Our problem statement is To Make an Automated User friendly Hospital Management System that provides complete guidance to Patient.
-For this purpose we implemented Data Structures and Algorithms techniques to make our respected user friendly program. We implemented our program with the help of:
+For this purpose we implemented Data Structures and Algorithms techniques to make our respected user friendly program. We implemented our program with the help of:\
     1. Linked Lists\
     2. Binary Trees\
     3. Arrays\
