@@ -7,8 +7,8 @@ Patient condition\
 Fee requirements\
 Availability of doctor\
 No of persons waiting in the list\
-Facility of medicine if patients is willing\ 
-Final bill\
+Facility of medicine if patients is willing \  
+Final bill \
 
 Following are the data structures which we have used\
 Trees\
