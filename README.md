@@ -30,12 +30,12 @@ With the help of this program a user will:\
 For saving the list of patients we used the concept of file handling. This program can be implemented on small scale hospital sector for its creativity. It provides a patient to select a particular disease from which he is suffering as well as a Manager can save a list of patients visited on a particular day.
 ## Implementation
 ### Time Complexity
-    Time complexity of Linked Lists: O(n)\
-    Time complexity of Binary trees: O(nlogn)\
+Time complexity of Linked Lists: O(n)\
+Time complexity of Binary trees: O(nlogn)\
 Hence the overall time complexity of this program is: O(n) where n is the number of patients registered.
 ### Data structures used:
-    Main structure of program was implemented using the concept of Binary trees. We designated specific program to run for each node of tree. We implemented this structure using post order traversal of Binary Tree. \
-    We chose binary trees for this purpose because we wanted to implement the whole program using all the major techniques of Data structures.\
+Main structure of program was implemented using the concept of Binary trees. We designated specific program to run for each node of tree. We implemented this structure using post order traversal of Binary Tree.\
+We chose binary trees for this purpose because we wanted to implement the whole program using all the major techniques of Data structures.
 ### 1) Linked List implementation:
 Basically we have implemented the concept of singly linked list in our project. The concept behind the use of linked list is solely the registry of patient. As we are aware of the fact that in a linked list a node data structure is created with a few basic attributes and pointer pointing to other nodes, likewise the implementation of linked list is done in the same suit thereby making a data structure node i.e. of patients having unique attributes including name, serial no, bill along with the pointers. Furthermore we have used the concept of class here.
 ### 2) Binary Tree implementation:
@@ -47,11 +47,11 @@ BILL of the patient\
 String array for the name of patients etc\
 Registration of Patient was implemented using arrays. Programs will ask user to enter his condition (Normal or Emergency). After that he will enter his name, Id and will specify his disease and then he’ll be proceeded to respected doctor for checkup. Then the program will ask the user if he want to purchase medicine or not. This all is done for one patient using arrays and linked lists. Each array index points the particular patient and we initialized Linked List for each array index which will store his Name, Id, Disease and bill etc.\
 We chose these structures for this task because it is more simple and efficient and we can easily traverse through the whole list using arrays. In this way we can also access their respected credentials.\
-Manager mode is the mode in which a program asks a user to enter a pin code to log in to manager portal. The user will be given 4 tries before the program will shut down automatically if he failed to enter the correct pin code. After logging into this portal user will be asked whether he wants to save visited patient list or not. The List will be saved to respected location.\   
+Manager mode is the mode in which a program asks a user to enter a pin code to log in to manager portal. The user will be given 4 tries before the program will shut down automatically if he failed to enter the correct pin code. After logging into this portal user will be asked whether he wants to save visited patient list or not. The List will be saved to respected location.  
 ### Results
 This project, demonstrating the management in Hospital, is limited to serving a single patient at a time as it was the 1st generation version of our attempt at it. The time complexity of the program is Big-O (N) which is quite good in case of a small hospital.\
-The system can be used at a hospital which is for a not-so-busy hospital at the moment we have a single doctor at the duty and there is a waiting mechanism for patients.\
+The system can be used at a hospital which is for a not-so-busy hospital at the moment we have a single doctor at the duty and there is a waiting mechanism for patients.
 ### Discussion & Conclusion
 As for its further extension, we can implement a system which has the possibility that if a doctor is busy with medication examination of a patient, for a next patient to come, the system could direct him to another specialist’s supervision. So, if any patient comes, the program checks for the first doctor. If he is busy, it asks the different doctor and so on.\
 Another possibility is that, if a limited number of doctors are available, a queue can be implemented which allow the serving of patients on first come, first serve basis i.e. the first patient to come get the first priority to be examined by doctor, the second to come gets the second priority and so on. So even if one doctor is available only, a queue would allow us to have a robust system.\
- Moreover, we can introduce to our program, a report producer at the end of examinations. The report will show all the tests taken by patient and their results with deviation from a normal patient’s result. The details of the patient, his name, contact, address and medical details would also be shown on report such as his blood group etc.\
+ Moreover, we can introduce to our program, a report producer at the end of examinations. The report will show all the tests taken by patient and their results with deviation from a normal patient’s result. The details of the patient, his name, contact, address and medical details would also be shown on report such as his blood group etc.
