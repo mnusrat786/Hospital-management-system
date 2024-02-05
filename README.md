@@ -2,7 +2,11 @@
 
 ![Screenshot](ER_Diagram.PNG)
 
+![](animation.mp4)
 
+ <video width="320" height="240" controls>
+  <source src="animation.mp4" type="video/mp4">
+</video>
 ## ABSTRACT
 Our project is of hospital management system has following features
 
@@ -60,8 +64,4 @@ As for its further extension, we can implement a system which has the possibilit
 Another possibility is that, if a limited number of doctors are available, a queue can be implemented which allow the serving of patients on first come, first serve basis i.e. the first patient to come get the first priority to be examined by doctor, the second to come gets the second priority and so on. So even if one doctor is available only, a queue would allow us to have a robust system.\
  Moreover, we can introduce to our program, a report producer at the end of examinations. The report will show all the tests taken by patient and their results with deviation from a normal patient’s result. The details of the patient, his name, contact, address and medical details would also be shown on report such as his blood group etc.
 
-![](animation.mp4)
 
- <video width="320" height="240" controls>
-  <source src="animation.mp4" type="video/mp4">
-</video>
