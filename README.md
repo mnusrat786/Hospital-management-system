@@ -59,3 +59,9 @@ The system can be used at a hospital which is for a not-so-busy hospital at the 
 As for its further extension, we can implement a system which has the possibility that if a doctor is busy with medication examination of a patient, for a next patient to come, the system could direct him to another specialist’s supervision. So, if any patient comes, the program checks for the first doctor. If he is busy, it asks the different doctor and so on.\
 Another possibility is that, if a limited number of doctors are available, a queue can be implemented which allow the serving of patients on first come, first serve basis i.e. the first patient to come get the first priority to be examined by doctor, the second to come gets the second priority and so on. So even if one doctor is available only, a queue would allow us to have a robust system.\
  Moreover, we can introduce to our program, a report producer at the end of examinations. The report will show all the tests taken by patient and their results with deviation from a normal patient’s result. The details of the patient, his name, contact, address and medical details would also be shown on report such as his blood group etc.
+
+
+
+ <video width="320" height="240" controls>
+  <source src="animation.mp4" type="video/mp4">
+</video>
