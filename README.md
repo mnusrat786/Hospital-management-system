@@ -1,7 +1,8 @@
 # Hospital-management-system
 
 ![Alt Text](ER Diagram.PNG)
-![Screenshot](ER Diagram.PNG)
+
+![Screenshot](ER_Diagram.PNG)
 
 
 ## ABSTRACT
