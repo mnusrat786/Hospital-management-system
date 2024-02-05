@@ -2,11 +2,7 @@
 
 ![Screenshot](ER_Diagram.PNG)
 
-![](animation.mp4)
 
- <video width="320" height="240" controls>
-  <source src="animation.mp4" type="video/mp4">
-</video>
 ## ABSTRACT
 Our project is of hospital management system has following features
 
