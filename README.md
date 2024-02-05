@@ -1,6 +1,8 @@
 # Hospital-management-system
 
 ![Alt Text](ER Diagram.PNG)
+![Screenshot](ER Diagram.PNG)
+
 
 ## ABSTRACT
 Our project is of hospital management system has following features
