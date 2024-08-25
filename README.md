@@ -21,16 +21,16 @@ To save the information of the patient visited we have used file handling. First
 
 ## INTRODUCTION
 Our problem statement is To Make an Automated User friendly Hospital Management System that provides complete guidance to Patient.
-For this purpose we implemented Data Structures and Algorithms techniques to make our respected user friendly program. We implemented our program with the help of:\
-    1. Linked Lists\
-    2. Binary Trees\
-    3. Arrays\
-With the help of this program a user will:\
-    1. Register himself as a normal patient or emergency patient\
-    2. Give program necessary credentials like name, Id number to get registered\
-    3. Get appointment to the doctor according to the disease he is suffering from\
-    4. Purchase medicines of his choice\
-    5. Saves a list of visited patients if he logged in as a ‘Manager” in the program\
+For this purpose we implemented Data Structures and Algorithms techniques to make our respected user friendly program. We implemented our program with the help of:
+    1. Linked Lists
+    2. Binary Trees
+    3. Arrays
+With the help of this program a user will:
+    1. Register himself as a normal patient or emergency patient
+    2. Give program necessary credentials like name, Id number to get registered
+    3. Get appointment to the doctor according to the disease he is suffering from
+    4. Purchase medicines of his choice
+    5. Saves a list of visited patients if he logged in as a ‘Manager” in the program
 For saving the list of patients we used the concept of file handling. This program can be implemented on small scale hospital sector for its creativity. It provides a patient to select a particular disease from which he is suffering as well as a Manager can save a list of patients visited on a particular day.
 ## Implementation
 ### Time Complexity
