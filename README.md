@@ -31,7 +31,7 @@ With the help of this program a user will:
     3. Get appointment to the doctor according to the disease he is suffering from
     4. Purchase medicines of his choice
     5. Saves a list of visited patients if he logged in as a ‘Manager” in the program
-For saving the list of patients we used the concept of file handling. This program can be implemented on small scale hospital sector for its creativity. It provides a patient to select a particular disease from which he is suffering as well as a Manager can save a list of patients visited on a particular day.
+For saving the list of patients we used the concept of file handling. This program can be implemented on small scale hospital sector for its creativity. It provides a patient to select a particular disease from which he is suffering as well as a Manager can save a list of patients visited on a particular day
 ## Implementation
 ### Time Complexity
 Time complexity of Linked Lists: O(n)\
