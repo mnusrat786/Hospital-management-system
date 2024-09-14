@@ -36,7 +36,7 @@ For saving the list of patients we used the concept of file handling This progra
 ### Time Complexity
 Time complexity of Linked Lists: O(n)\
 Time complexity of Binary trees: O(nlogn)\
-Hence the overall time complexity of this program is: O(n) where n is the number of patients registered.
+Hence the overall time complexity of this program is: O(n) where n is the number of patients registered
 ### Data structures used:
 Main structure of program was implemented using the concept of Binary trees. We designated specific program to run for each node of tree. We implemented this structure using post order traversal of Binary Tree.\
 We chose binary trees for this purpose because we wanted to implement the whole program using all the major techniques of Data structures.
